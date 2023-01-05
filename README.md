@@ -17,10 +17,12 @@ Je suis l'auteur du site **Lifestyle Learner**, où je publie des articles sur l
 
 ## Ma formation autodidacte (Udemy)
 
-|Titre|Avancement|
-|-|-|
-|[Mainframe: The Complete COBOL Course From Beginner To Expert (9,5 h)](https://www.udemy.com/certificate/UC-562d8301-6ce4-4818-b7b9-26276078f845/)|100 %|
-|[Développeur C# - Formation complète 2022 (24,5 h) de Jonathan Roux](https://www.udemy.com/course/developpeur-cs-formation-complete/)|86 %|
+|Titre|Durée|Avancement|
+|-|-|-|
+|[The Complete Python Course](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-Python.jpg)|35,5 h|100%|
+|[Python & Flask Bootcamp](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-Flask.jpg)|20 h|100%|
+|[Mainframe: The Complete COBOL Course From Beginner To Expert](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-COBOL.jpg)|9,5 h|100 %|
+|[C# - Formation complète 2022 par Jonathan Roux](https://www.udemy.com/course/developpeur-cs-formation-complete/)|24,5 h|86 %|
 
 ## Liens externes
 
