@@ -11,6 +11,8 @@ Le développement Mainframe est devenu une suite logique en raison de mon intér
 
 Je me forme sur le langage C# et le framework web ASP.NET en parallèle, notamment grâce à Udemy et au site de **Codewars**.
 
+![badge CodeWars](https://www.codewars.com/users/Lukam90/badges/large)
+
 J'ajoute et mets à jour régulièrement mes projets personnels sur ce présent répertoire.
 
 Je suis l'auteur du site **Lifestyle Learner**, où je publie des articles sur le développement personnel orienté style de vie.
