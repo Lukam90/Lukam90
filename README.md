@@ -19,12 +19,12 @@ Je suis l'auteur du site **Lifestyle Learner**, où je publie des articles sur l
 
 ## Ma formation autodidacte (Udemy)
 
-|Titre|Durée|Avancement|
-|-|-|-|
-|[The Complete Python Course](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-Python.jpg)|35,5 h|100%|
-|[Python & Flask Bootcamp](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-Flask.jpg)|20 h|100%|
-|[Mainframe: The Complete COBOL Course From Beginner To Expert](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-COBOL.jpg)|9,5 h|100 %|
-|[C# - Formation complète 2022 par Jonathan Roux](https://www.udemy.com/course/developpeur-cs-formation-complete/)|24,5 h|86 %|
+|Titre|Durée|
+|-|-|
+|[The Complete Python Course](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-Python.jpg)|35,5 h|
+|[Python & Flask Bootcamp](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-Flask.jpg)|20 h|
+|[Mainframe: The Complete COBOL Course From Beginner To Expert](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-COBOL.jpg)|9,5 h|
+|[C# - Formation complète 2022 par Jonathan Roux](https://github.com/Lukam90/Lukam90/blob/main/C-CSharp.jpg)|24,5 h|
 
 ## Liens externes
 
