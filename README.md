@@ -3,9 +3,9 @@
 Etant passionné d'informatique, je me suis tout d'abord orienté vers le développement web et mobile.
 
 Mes compétences de base sont :
-- HTML, (S)CSS, JavaScript et React en front-end
-- PHP (Symfony, Laravel) et NodeJS (Express) en back-end
-- Dart (Flutter) et Java (bases) sur Android
+- HTML, (S)CSS et JavaScript en front-end
+- PHP (Symfony, Laravel) et Python (Flask, Django) en back-end
+- Dart (Flutter), Java (bases) et Python (Kivy) sur Android
 
 Le développement Mainframe est devenu une suite logique en raison de mon intérêt pour ce domaine et ses technologies sous-jacentes (COBOL, JCL, zOS).
 
