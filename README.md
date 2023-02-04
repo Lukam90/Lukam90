@@ -4,7 +4,7 @@ Etant passionné d'informatique, je me suis tout d'abord orienté vers le dével
 
 Mes compétences de base sont :
 - HTML, (S)CSS et JavaScript en front-end
-- PHP (Symfony, Laravel) et Python (Flask, Django) en back-end
+- PHP (Symfony, Laravel) et Python (Flask) en back-end
 - Dart (Flutter), Java (bases) et Python (Kivy) sur Android
 
 Le développement Mainframe est devenu une suite logique en raison de mon intérêt pour ce domaine et ses technologies sous-jacentes (COBOL, JCL, zOS).
