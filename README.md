@@ -9,13 +9,13 @@ Mes compétences de base sont :
 
 Le développement Mainframe est devenu une suite en raison de mon intérêt pour ce domaine et ses technologies sous-jacentes (COBOL, JCL, zOS).
 
-Je me forme en autodidacte sur C# / .NET avec Microsoft Learn.
-
 Je m'entraîne en programmation avec Codewars.
 
 ![badge CodeWars](https://www.codewars.com/users/Lukam90/badges/large)
 
 Je vise le grade 1 dan pour la fin de cette année.
+
+Je m'entraîne en développement front-end avec Front End Mentor.
 
 ## Ma formation autodidacte (Udemy)
 
