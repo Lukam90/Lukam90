@@ -4,10 +4,8 @@ Etant passionné d'informatique, je me suis tout d'abord orienté vers le dével
 
 Mes compétences de base sont :
 - HTML, (S)CSS, JavaScript et React en front-end
-- PHP (Symfony, Laravel) et Next en back-end
+- PHP (Symfony, Laravel) en back-end
 - Dart (Flutter) et Java (bases) sur Android
-
-Le développement Mainframe est devenu une suite en raison de mon intérêt pour ce domaine et ses technologies sous-jacentes (COBOL, JCL, zOS).
 
 Je m'entraîne en programmation avec Codewars.
 
@@ -15,27 +13,19 @@ Je m'entraîne en programmation avec Codewars.
 
 Je vise le grade 1 dan pour la fin de cette année.
 
-Je m'entraîne en développement front-end avec Front End Mentor.
+## Mon projet du moment
 
-## Ma formation autodidacte (Udemy)
+Je réalise une application web pour une association de collectionneurs organisant des salons annuels, avec un système de réservations de tables en ligne.
 
-|Titre|Durée|
-|-|-|
-|[The Complete Python Course](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-Python.jpg)|35,5 h|
-|[Python & Flask Bootcamp](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-Flask.jpg)|20 h|
-|[Mainframe: The Complete COBOL Course From Beginner To Expert](https://github.com/Lukam90/Lukam90/blob/main/C-Udemy-COBOL.jpg)|9,5 h|
-|[C# - Formation complète 2022 par Jonathan Roux](https://github.com/Lukam90/Lukam90/blob/main/C-CSharp.jpg)|24,5 h|
+Le front end est basé sur React avec Material UI.
+
+Le back end est basé sur PHP et Laravel sous forme d'API.
+
+- [Lien du site (bientôt en ligne !)](http://aaccp.fr/)
+- [Lien du répertoire Github (code, documentation)](https://github.com/Lukam90/AssocApp)
 
 ## Liens externes
 
 - [Mon profil Linkedin](https://www.linkedin.com/in/lucien-hamm/)
 - [Mon profil Codewars](https://www.codewars.com/users/Lukam90)
-- [Mon profil Microsoft Learn](https://learn.microsoft.com/en-us/users/lucien-hamm/)
 - [Mon site Lifestyle Learner](https://lifestyle-learner.com/)
-
-## Mon projet du moment
-
-Je travaille sur le site de l'AACCP, une association de collectionneurs organisant des salons annuels.
-
-- [Lien du site (bientôt en ligne !)](http://aaccp.fr/)
-- [Lien du répertoire Github (code, documentation)](https://github.com/Lukam90/AssocApp)
