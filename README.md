@@ -4,7 +4,7 @@ Etant passionné d'informatique, je me suis tout d'abord orienté vers le dével
 
 Mes compétences de base sont :
 - HTML, (S)CSS, JavaScript et React en front-end
-- PHP (Symfony, Laravel) en back-end
+- PHP (Symfony, Laravel) et NodeJS (Express) en back-end
 - Dart (Flutter) et Java (bases) sur Android
 
 Je m'entraîne en programmation avec Codewars.
@@ -28,4 +28,3 @@ Le back end est basé sur PHP et Laravel sous forme d'API.
 
 - [Mon profil Linkedin](https://www.linkedin.com/in/lucien-hamm/)
 - [Mon profil Codewars](https://www.codewars.com/users/Lukam90)
-- [Mon site Lifestyle Learner](https://lifestyle-learner.com/)
