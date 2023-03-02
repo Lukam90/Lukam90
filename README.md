@@ -17,7 +17,7 @@ Je vise le grade 1 dan pour la fin de cette année.
 
 Je réalise une application web pour une association de collectionneurs organisant des salons annuels, avec un système de réservations de tables en ligne.
 
-Le front end est basé sur React, Next et Chakra UI.
+Le front end est basé sur React.
 
 Le back end est basé sur NestJS.
 
