@@ -3,7 +3,7 @@
 Etant passionné d'informatique, je me suis tout d'abord orienté vers le développement web et mobile.
 
 Mes compétences de base sont :
-- HTML, (S)CSS, JavaScript et React en front-end
+- HTML, (S)CSS et JavaScript en front-end
 - PHP (Symfony, Laravel) et NodeJS (Express, NestJS) en back-end
 - Dart (Flutter) et Java (bases) sur Android
 
@@ -17,7 +17,7 @@ Je vise le grade 1 dan pour la fin de cette année.
 
 Je réalise une application web pour une association de collectionneurs organisant des salons annuels, avec un système de réservations de tables en ligne.
 
-Le front end est basé sur React.
+Le front end est basé sur Angular et Material.
 
 Le back end est basé sur NestJS.
 
