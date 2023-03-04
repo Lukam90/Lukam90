@@ -3,13 +3,16 @@
 Etant passionné d'informatique, je me suis tout d'abord orienté vers le développement web et mobile.
 
 Mes compétences de base sont :
-- HTML, (S)CSS et JavaScript en front-end
-- PHP (Symfony, Laravel) et NodeJS (Express, NestJS) en back-end
-- Dart (Flutter) et Java (bases) sur Android
+- HTML, (S)CSS, JavaScript et React en front-end
+- PHP (Symfony et Laravel) et NodeJS (Express) en back-end
+- Dart (Flutter) en développement mobile
+- Python pour les scripts
 
 Je m'entraîne en programmation avec Codewars.
 
 ![badge CodeWars](https://www.codewars.com/users/Lukam90/badges/large)
+
+Mon rang actuel 5 kyu est basé sur JavaScript.
 
 Je vise le grade 1 dan pour la fin de cette année.
 
@@ -17,9 +20,9 @@ Je vise le grade 1 dan pour la fin de cette année.
 
 Je réalise une application web pour une association de collectionneurs organisant des salons annuels, avec un système de réservations de tables en ligne.
 
-Le front end est basé sur Angular et Material.
+Le front end est basé sur React.
 
-Le back end est basé sur NestJS.
+Le back end est basé sur NodeJS et Express.
 
 - [Lien du site de l'association (bientôt en ligne !)](http://aaccp.fr/)
 - [Lien du site du projet (documentation, portfolio)](https://lukam90.github.io/)
