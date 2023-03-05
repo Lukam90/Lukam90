@@ -4,7 +4,7 @@ Etant passionné d'informatique, je me suis tout d'abord orienté vers le dével
 
 Mes compétences de base sont :
 - HTML, (S)CSS, JavaScript et React en front-end
-- PHP (Symfony et Laravel) et NodeJS (Express) en back-end
+- PHP (Symfony, API Platform et Laravel) en back end
 - Dart (Flutter) en développement mobile
 - Python pour les scripts
 
@@ -22,7 +22,7 @@ Je réalise une application web pour une association de collectionneurs organisa
 
 Le front end est basé sur React.
 
-Le back end est basé sur NodeJS et Express.
+Le back end est basé sur PHP, API Platform et Symfony.
 
 - [Lien du site de l'association (bientôt en ligne !)](http://aaccp.fr/)
 - [Lien du site du projet (documentation, portfolio)](https://lukam90.github.io/)
