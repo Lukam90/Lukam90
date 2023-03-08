@@ -3,10 +3,21 @@
 Etant passionné d'informatique, je me suis tout d'abord orienté vers le développement web et mobile.
 
 Mes compétences de base sont :
-- HTML, (S)CSS, JavaScript et React en front-end
+- HTML, (S)CSS, JS (JavaScript) et React en front-end
 - PHP (Symfony, API Platform et Laravel) en back end
 - Dart (Flutter) en développement mobile
 - Python pour les scripts
+- Java pour le code
+
+Je m'entraîne sur Java et JS au quotidien avec CodeWars.
+
+Mon rang actuel est 5 kyu.
+
+![rang CodeWars](https://www.codewars.com/users/Lukam90/badges/large)
+
+J'ai déjà complété :
+- 5 katas en Java
+- 75 katas en JavaScript
 
 ## Mon projet du moment
 
