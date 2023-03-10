@@ -9,15 +9,11 @@ Mes compétences de base sont :
 - Python pour les scripts
 - Java pour le code
 
-Je m'entraîne sur Java et JS au quotidien avec CodeWars.
+Je m'entraîne en programmation au quotidien avec CodeWars.
 
-Mon rang actuel est 5 kyu.
+Mon rang actuel est 5 kyu (basé sur C# et JS).
 
 ![rang CodeWars](https://www.codewars.com/users/Lukam90/badges/large)
-
-J'ai déjà complété :
-- 5 katas en Java
-- 75 katas en JavaScript
 
 ## Mon projet du moment
 
@@ -27,7 +23,7 @@ Le front end est basé sur React.
 
 Le back end est basé sur PHP, API Platform et Symfony.
 
-- [Lien du site de l'association (bientôt en ligne !)](http://aaccp.fr/)
+- [Lien du site de l'association](https://aaccp.netlify.app)
 - [Lien de la documentation](https://github.com/Lukam90/lukam90.github.io)
 
 ## Liens externes
