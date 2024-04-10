@@ -1,11 +1,9 @@
 Mes compétences de base sont :
 - HTML, (S)CSS et JavaScript en front end
-- PHP (Symfony et Laravel) en back end
-- Dart (Flutter) en développement mobile
+- PHP, Symfony et Laravel en back end
+- Dart et Flutter en développement mobile
 - Python pour les scripts
 
-Je me suis ensuite porté sur React et Node.js.
+Je me suis ensuite tourné vers la data science avec Python.
 
-Je m'entraîne quotidiennement au code avec **Front End Mentor**.
-
-Je me forme aussi en autodidacte avec [Dyma](https://dyma.fr/r/6586fd907a8379620a2b6824).
+Je me forme actuellement en autodidacte avec [DataCamp](https://www.datacamp.com/portfolio/lucienhamm).
